@@ -1,0 +1,9 @@
+Name,Age,Daily Steps,Calories Burned,Physical Activity Level,Dietary Habits,Sleep Disorders,Medication Usage,Sleep Quality
+John,25,7000,2000,medium,healthy,no,no,8.5
+Alice,30,5000,1800,low,medium,yes,yes,6.0
+Bob,35,10000,2200,high,healthy,no,no,9.0
+Eve,40,4000,1700,low,unhealthy,yes,no,5.5
+Charlie,50,6000,1900,medium,medium,no,no,7.0
+Diana,45,8000,2100,high,healthy,no,yes,8.0
+Frank,55,2000,1400,low,unhealthy,yes,yes,4.0
+Shriraam,20,3000,700,medium,healthy,no,no,6.1
