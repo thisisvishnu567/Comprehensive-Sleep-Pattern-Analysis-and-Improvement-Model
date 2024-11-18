@@ -1,7 +1,9 @@
 import streamlit as st
 from langchain_ollama import OllamaLLM
 
-model = OllamaLLM(model="llama3.2")
+
+api_key = os.getenv("LA-daf3bb9222d240b68975010fbbf79d9f528164036d574719a210f7ebd0cf0928")
+model = OllamaLLM(model="llama3.2", api_key=api_key)
 
 if "conversation_context" not in st.session_state:
     st.session_state.conversation_context = [
